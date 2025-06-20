@@ -11,6 +11,7 @@ Desenvolver uma aplicação em C# capaz de consumir dados de uma API pública re
 ## 💡 Funcionalidades
 
 - Requisição HTTP para consumo da API pública de dados Selic.
+- Exportar para CSV ou Excel.
 - Serialização dos dados JSON em objetos fortemente tipados.
 - Exibição de menu interativo com opções para o usuário.
 - Validação de entrada de dados e tratamento de exceções.
